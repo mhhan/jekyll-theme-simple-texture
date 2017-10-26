@@ -1,0 +1,11 @@
+---
+layout: post
+title: "mhhan Hello World!"
+description: "mhhan The first 'Hello world' post for Simple Texture theme."
+categories: [mhhan uncategorized]
+tags: [random, jekyll]
+redirect_from:
+  - /2017/10/26/
+---
+Hello World! This is the beginning of this theme.
+© 2017 GitHub, Inc.
